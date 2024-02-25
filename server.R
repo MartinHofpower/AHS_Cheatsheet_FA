@@ -1,7 +1,7 @@
 # Application: "FA-Cheatsheet" - SERVER
 # Version: 1.0.0
 # Author: Martin Hofbauer
-# Contact: martin@hofeder.solutions
+# Contact: hofi.at@me.com
 
 library('ggplot2')
 library('MASS')
