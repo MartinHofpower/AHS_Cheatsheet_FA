@@ -1,10 +1,7 @@
 # Application: "FA-Cheatsheet" - UI
 # Version: 1.0.0
 # Author: Martin Hofbauer
-# Contact: martin@hofeder.solutions
-
-# Note
-# 'MathJax' only works when Mac is connected to the internet(?)
+# Contact: hofi.at@me.com
 
 library(shiny)
 library(bslib)
